@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm 2nd Year Student CSE Student
+- I'm a 3rd Year Student CSE Student
 - Proficient in JavaScript, React Python and C, with some experience in C# and Java
 - I love talking to people, so feel free to email me
 - Interested in Game Development, Artificial Intelligence, Fullstack Development and Music
