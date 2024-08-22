@@ -1,8 +1,6 @@
 ## Hi there 👋
 - I'm a 3rd Year Student CSE Student
-- Proficient in JavaScript, React Python and C, with some experience in C# and Java
-- I love talking to people, so feel free to email me
-- Interested in Game Development, Artificial Intelligence, Fullstack Development and Music
+- Proficient in MERN stack with some experience in C#, Python and Java
 <!--
 **SujalGupta52/SujalGupta52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
